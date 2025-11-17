@@ -1,3 +1,9 @@
+IMPORTANT !!!
+WORKS ON Python 2 ONLY!!
+In addition the 'input()', has to be 'raw_input()' in order to work.
+
+
+
 Task
 
 Given an integer,n , and n space-separated integers as input,
